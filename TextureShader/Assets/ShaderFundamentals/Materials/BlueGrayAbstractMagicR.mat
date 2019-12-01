@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: BlueGrayAbstractMagicR
   m_Shader: {fileID: 4800000, guid: 982c7f06a8e36a443af73749dd08be31, type: 3}
   m_ShaderKeywords: 
@@ -19,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 3dd1597ad87be2b4797067f91b75f240, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3b9ae7b51e4c5c24f9accd79125a6e9d, type: 3}
         m_Scale: {x: 3, y: 3}
         m_Offset: {x: 17.02, y: 37.47}
     m_Floats: []
